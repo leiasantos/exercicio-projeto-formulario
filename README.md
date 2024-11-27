@@ -38,3 +38,10 @@
                  
   </code>
 </pre>
+
+<h2>Sobre a aula📚</h2>
+<p>Aula ministrada por Mayk Brito </p>
+<a href="https://www.rocketseat.com.br" target="_blank">Visit rocketseat 🚀</a>
+
+
+
